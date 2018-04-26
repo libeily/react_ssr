@@ -1,0 +1,23 @@
+{
+  "name": "react_ssr",
+  "version": "1.0.0",
+  "description": "react_server-render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libeily/react_ssr.git"
+  },
+  "keywords": [
+    "react",
+    "ssr"
+  ],
+  "author": "liyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libeily/react_ssr/issues"
+  },
+  "homepage": "https://github.com/libeily/react_ssr#readme"
+}
